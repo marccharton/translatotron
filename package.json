@@ -1,0 +1,16 @@
+{
+  "name": "translatotron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-await-foreach": "^1.0.4",
+    "axios": "^1.1.3",
+    "deepl-node": "^1.7.1"
+  }
+}
